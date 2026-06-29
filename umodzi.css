@@ -58,7 +58,8 @@ main{
     color:#e4dfda ;
     font-size: 3em;
     background-color: #1282A2;
-    height: 10vh;
+    width: 100vw;
+    height: 20vh;
     text-align: center;
 }
 
